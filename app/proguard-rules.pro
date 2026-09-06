@@ -1,0 +1,2 @@
+# Regras Proguard
+-dontwarn
